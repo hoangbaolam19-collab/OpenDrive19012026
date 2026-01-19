@@ -1,0 +1,4 @@
+linkno,name,id,s,t,zOffset,hOffset,roll,pitch,orientation,dynamic,type,subtype,height,width
+6,Sign_Post01_3m,3,81.94427442105717,-39.89932846248337,0.0,-2.79,0.0,0.0,-,no,pole,-1,3.5,0.04
+4,Sign_Post01_3m,5,347.81480858292105,-41.68209625629573,0.0,-2.79,0.0,0.0,-,no,pole,-1,3.5,0.04
+1,Sign_Post01_3m,7,302.17211586090383,-10.90323226795404,0.0,-2.79,0.0,0.0,-,no,pole,-1,3.5,0.04
